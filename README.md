@@ -2,7 +2,7 @@
 
 - Requires at least: 2.0
 - WordPress Tested up to: 6.6.2
-- WooCommerce Tested up to: 9.3.3
+- WooCommerce Tested up to: 9.4.0
 - Stable tag: 2.3.0
 - Requires PHP: 7.0
 - License: GPLv2
