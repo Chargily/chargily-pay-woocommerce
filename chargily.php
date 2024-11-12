@@ -123,7 +123,7 @@ function update_chargily_pay_settings_data() {
 
 function check_chargily_security_updates() {
     $changelog_url = 'https://raw.githubusercontent.com/woocommerce/woocommerce/trunk/changelog.txt';
-    $current_version = '9.3.3';
+    $current_version = '9.4.0';
     $security_keywords = array('injection', 'attacks', 'Security', 'xss');
 
     $option_name = 'chargily_security_check';
