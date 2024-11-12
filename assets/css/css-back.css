@@ -10,44 +10,51 @@ span.components-visually-hidden.css-0.e19lxcc00{
 	width: 1px;
 	overflow-wrap: normal;
 }
-	
+
  .css-mkkf9p {
-     flex: 1 1 auto;
+	flex: 1 1 auto;
 }
+
  .css-cn3xcj {
-     margin-bottom: 12px;
+	margin-bottom: 12px;
 }
+
  .css-1pd4mph {
-     background-color: rgb(255, 255, 255);
-     color: rgb(30, 30, 30);
-     position: relative;
-     box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px 1px;
-     outline: none;
-     border-radius: calc(1px);
+	background-color: rgb(255, 255, 255);
+	color: rgb(30, 30, 30);
+	position: relative;
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px 1px;
+	outline: none;
+	border-radius: calc(1px);
 }
+
  .css-188a3xf:last-of-type {
-     border-bottom-left-radius: calc(1px);
-     border-bottom-right-radius: calc(1px);
+	border-bottom-left-radius: calc(1px);
+	border-bottom-right-radius: calc(1px);
 }
+
  .css-188a3xf:first-of-type {
-     border-top-left-radius: calc(1px);
-     border-top-right-radius: calc(1px);
+	border-top-left-radius: calc(1px);
+	border-top-right-radius: calc(1px);
 }
+
  .css-188a3xf {
-     box-sizing: border-box;
-     height: auto;
-     max-height: 100%;
-     padding: calc(16px) calc(24px);
+	box-sizing: border-box;
+	height: auto;
+	max-height: 100%;
+	padding: calc(16px) calc(24px);
 }
 
 input#woocommerce_chargily_pay_gateway_api_info.input-text.regular-input {
-     display: none;
+	display: none;
 }
+
 input#woocommerce_chargily_pay_description.input-text.regular-input {
-     display: none;
+	display: none;
 }
- input#woocommerce_chargily_pay_gateway_title.input-text.regular-input {
-     pointer-events: none;
-     border: 0px;
-     background-color : #ffffff00;
+
+input#woocommerce_chargily_pay_gateway_title.input-text.regular-input {
+	pointer-events: none;
+	border: 0px;
+	background-color : #ffffff00;
 }

@@ -1,9 +1,9 @@
 # Chargily Pay™ V2
 
 - Requires at least: 2.0
-- WordPress Tested up to: 6.5
-- WooCommerce Tested up to: 8.7.0
-- Stable tag: 2.2.5
+- WordPress Tested up to: 6.6.2
+- WooCommerce Tested up to: 9.4.0
+- Stable tag: 2.3.0
 - Requires PHP: 7.0
 - License: GPLv2
 - License URI: https://www.gnu.org/licenses/gpl-2.0.html
